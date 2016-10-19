@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CommonDialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="choose_picture">选择图片</string>
+	<string name="cancle">取消</string>
+	<string name="hah">哈哈哈哈！！！！！</string>
+</resources>
